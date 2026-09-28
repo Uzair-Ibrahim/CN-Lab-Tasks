@@ -1,0 +1,7 @@
+
+Student ID: 24k-0867Subject 1: CH=3.66, Marks=3.0, Grade=F, GPA=0.00
+Subject 2: CH=3.66, Marks=2.0, Grade=F, GPA=0.00
+Subject 3: CH=2.0, Marks=4.0, Grade=F, GPA=0.00
+Subject 4: CH=3.0, Marks=1.0, Grade=F, GPA=0.00
+
+Overall CGPA: 0.00
